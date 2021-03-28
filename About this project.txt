@@ -1,0 +1,8 @@
+This projects creates the api which allows users to create post, delete and vote/ like for the post as occur in Reddit
+
+functionality:
+It also checks for authenticated user
+on deleting post it checks that if this post belong to current user or not? 
+ Upvote for post
+delete vote for post
+restrict 1 vote for each user for each post e.g Like dislike 
